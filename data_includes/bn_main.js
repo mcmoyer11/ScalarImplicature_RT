@@ -1,8 +1,8 @@
 PennController.ResetPrefix(null); // Initiates PennController
 
-// CHEMLA & BOTT TRIALS
+// BOTT & NOVECK TRIALS
 
-Sequence("intro","consent", "demo","instructions", "trainT", "trainF","train_thinkT","train_thinkF", "end_train", randomize("trial"), "send", "final")
+Sequence("intro","consent", "demo","instructions", "trainT", "trainF","train_thinkT","train_thinkF", "end_train", rshuffle("trial"), "send", "final")
 
 newTrial("intro",
     defaultText
@@ -11,7 +11,11 @@ newTrial("intro",
     ,
     newText("<p>Welcome to the Experiment!</p>")
     ,
-    newText("<p>This experiment requires the use of a keyboard to register responses, so to participate in this experiment you MUST be on a laptop, desktop computer, or tablet device with a detachable keyboard. NOT a cell phone or tablet without detachable keyboard.</p>")
+    newText("<p>This experiment requires the use of a keyboard to register responses.</p>") 
+    ,
+    newText("<p>To participate in this experiment you MUST be on a laptop, desktop computer, or tablet device with a detachable keyboard.</p>")
+    ,
+    newText("<p>Do not use a cell phone, or tablet without detachable keyboard.</p>")
     ,
     newButton("Proceed to the Consent Form")
         .center()
@@ -24,43 +28,59 @@ newTrial("consent",
         .log()
         .print()
     ,
+    newTextInput("ID")
+        .log()
+        .before( newText("before", "<p>Please enter your unique participant ID</p>") )
+        .center()
+        .print()
+    ,
+    newText("warning", "Please enter your ID first")
+        .color("red")
+        .bold()
+    ,
     newButton("consent button", "By clicking this button I indicate my consent")
         .center()
         .print()
-        .wait()
+        .wait(  // Make sure the TextInput has been filled
+            getTextInput("ID")
+                .testNot.text("")
+                .failure( getText("warning").print() )
+        )
+    ,   // Create a Var element before going to the next screen
+    newVar("ID")
+        .global()          // Make it globally accessible
+        .set( getTextInput("ID") )
 )
+.log( "ID" , getVar("ID") )
 
 newTrial("demo",
     defaultText
         .center()
         .print()
     ,
-    newText("<p>Please enter your Participant ID.</p>")
-    ,
-    newTextInput("inputID")
-        .inputWarning("We would like you to type some text in these fields")
-        .print()
-    ,
-    newText("<p>What is your native language?</p>")
-    ,
     newTextInput("NativeLang")
-        .inputWarning("We would like you to type some text in these fields")
+        .log()
+        .before( newText("before", "Please enter your native language.") )
+        .center()
         .print()
-    ,    
-    newText("<p>Do you speak any other languages?</p>")
+    ,
+    newText("warning", "Please enter your native language.")
+        .color("red")
+        .bold()
     ,
     newTextInput("OtherLangs")
-        .inputWarning("We would like you to type some text in these fields")
+        .before( newText("before", "Do you speak any other languages?") )
+        .center()
         .print()
     ,
     newButton("Start")
         .center()
         .print()
-        .wait()
-    ,
-    newVar("ID")
-        .global()
-        .set( getTextInput("inputID") )
+        .wait(  // Make sure the TextInput has been filled
+            getTextInput("NativeLang")
+                .testNot.text("")
+                .failure( getText("warning").print() )
+        )
     ,
     newVar("NativeLang")
         .global()
@@ -68,11 +88,25 @@ newTrial("demo",
     ,
     newVar("OtherLangs")
         .global()
-        .set( getTextInput("NativeLang") )
+        .set( getTextInput("OtherLangs") )
 )
-.log( "ID" , getVar("ID") )
 .log( "NativeLang" , getVar("NativeLang") )
 .log( "OtherLangs" , getVar("OtherLangs") )
+
+
+// What is in Header happens at the beginning of every single trial
+Header(
+    // We will use this global Var element later to store the participant's name
+    newVar("ID")
+        .global()
+    // ,
+    // // Delay of 250ms before every trial
+    // newTimer(250)
+    //     .start()
+    //     .wait()
+)
+.log( "ID" , getVar("ID") )
+// This log command adds a column reporting the participant's name to every line saved to the results
 
 
 newTrial("instructions",
@@ -94,7 +128,7 @@ newTrial( "trainT",
             .start()
             .wait()
         ,
-        newText("<p>First you will see a sentence like:</p>")
+        newText("<p><strong>PRACTICE.</strong></p>")
             .center()
             .print()
         ,
@@ -103,6 +137,10 @@ newTrial( "trainT",
             .print()
         ,
         newText("<p> If you <strong>Agree</strong> with the sentence, press <strong>F</strong>. If you <strong>Disagree</strong>, then press <strong>J</strong><p>")
+            .center()
+            .print()
+        ,
+        newText("<p>Since this statement is <strong>correct</strong>, you should press <strong>F</strong> on the keyboard to agree.<p>")
             .center()
             .print()
         ,
@@ -123,7 +161,7 @@ newTrial( "trainF",
             .start()
             .wait()
         ,
-        newText("<p>First you will see a sentence like:</p>")
+        newText("<p><strong>PRACTICE.</strong></p>")
             .center()
             .print()
         ,
@@ -132,6 +170,10 @@ newTrial( "trainF",
             .print()
         ,
         newText("<p> If you <strong>Agree</strong> with the sentence, press <strong>F</strong>. If you <strong>Disagree</strong>, then press <strong>J</strong><p>")
+            .center()
+            .print()
+        ,
+        newText("<p>Since this statement is <strong>incorrect</strong>, you should press <strong>J</strong> on the keyboard to disagree.<p>")
             .center()
             .print()
         ,
@@ -152,15 +194,19 @@ newTrial( "train_thinkT",
             .start()
             .wait()
         ,
-        newText("<p>First you will see a sentence like:</p>")
+        newText("<p><strong>PRACTICE.</strong></p>")
             .center()
             .print()
         ,
-        newText( "<p>Historians think that the US is currently a British colony.</p>" )
+        newText( "<p>Historians think that George Washington was a US president.</p>" )
             .center()
             .print()
         ,
         newText("<p> If you <strong>Agree</strong> with the sentence, press <strong>F</strong>. If you <strong>Disagree</strong>, then press <strong>J</strong><p>")
+            .center()
+            .print()
+        ,
+        newText("<p>Since this statement is <strong>correct</strong>, you should press <strong>F</strong> on the keyboard to agree.<p>")
             .center()
             .print()
         ,
@@ -181,7 +227,7 @@ newTrial( "train_thinkF",
             .start()
             .wait()
         ,
-        newText("<p>Practice.</p>")
+        newText("<p><strong>PRACTICE.</strong></p>")
             .center()
             .print()
         ,
@@ -190,6 +236,10 @@ newTrial( "train_thinkF",
             .print()
         ,
         newText("<p> If you <strong>Agree</strong> with the sentence, press <strong>F</strong>. If you <strong>Disagree</strong>, then press <strong>J</strong><p>")
+            .center()
+            .print()
+        ,
+        newText("<p>Since this statement is <strong>incorrect</strong>, you should press <strong>J</strong> on the keyboard to disagree.<p>")
             .center()
             .print()
         ,
@@ -206,21 +256,6 @@ newTrial( "train_thinkF",
 )
 
 
-// What is in Header happens at the beginning of every single trial
-Header(
-    // We will use this global Var element later to store the participant's name
-    newVar("ID")
-        .global()
-    ,
-    // Delay of 250ms before every trial
-    newTimer(250)
-        .start()
-        .wait()
-)
-.log( "ID" , getVar("ID") )
-// This log command adds a column reporting the participant's name to every line saved to the results
-
-
 newTrial("end_train",
     
     defaultText
@@ -235,12 +270,7 @@ newTrial("end_train",
         .center()
         .print()
         .wait()
-    ,
-    newVar("ID")
-        .global()
-        .set( getTextInput("inputID") )
 )
-.log( "ID" , getVar("ID") )
 
 
 Template( "bn_table.csv", row =>
@@ -250,9 +280,11 @@ Template( "bn_table.csv", row =>
             .wait()
         ,
         newText("sentence", `${row.Matrix} ${row.Quantifier} ${row[row.Subject.replace("Category",row.WhichCategory+'Category')]} are ${row[row.Predicate.replace("Category",row.WhichCategory+'Category')]}` )
+            .center()
             .print()
         ,
         newText("<p> Press <strong>F</strong> to <strong>Agree</strong> or <strong>J</strong> to <strong>Disagree</strong><p>")
+            .center()
             .print()
         ,
         newSelector()
