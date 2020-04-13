@@ -1,35 +1,152 @@
 PennController.ResetPrefix(null); // Initiates PennController
 
-// BOTT & NOVECK TRIALS
+// CHEMLA & BOTT TRIALS
 
-Sequence("intro", randomize("trial"), "send", "final")
+Sequence("intro","consent", "demo","instructions", "trainT", "trainF", "end_train", randomize("trial"), "send", "final")
 
 newTrial("intro",
-    
     defaultText
+        .center()
         .print()
-    ,    
-    newText("<p>Welcome!</p>")
     ,
-    newText("<p>In this experiment, you will have to report whether you agree or disagree with a statement.</p>")
+    newText("<p>Welcome to the Experiment!</p>")
     ,
-    newText("<p>Press the <strong>F</strong> key to Agree, or the <strong>J</strong> key to Disagree.</p>")
+    newText("<p>This experiment requires the use of a keyboard to register responses, so to participate in this experiment you MUST be on a laptop, desktop computer, or tablet device with a detachable keyboard. NOT a cell phone or tablet without detachable keyboard.</p>")
     ,
-    newText("<p>Please enter your SONA ID and then click the button below to start the experiment.</p>")
+    newButton("Proceed to the Consent Form")
+        .center()
+        .print()
+        .wait()
+)
+
+newTrial("consent",
+    newHtml("consent.html")
+        .log()
+        .print()
+    ,
+    newButton("consent button", "By clicking this button I indicate my consent")
+        .center()
+        .print()
+        .wait()
+)
+
+newTrial("demo",
+    defaultText
+        .center()
+        .print()
+    ,
+    newText("<p>Please enter your Participant ID.</p>")
     ,
     newTextInput("inputID")
+        .inputWarning("We would like you to type some text in these fields")
         .print()
     ,
-    newButton("Start the experiment")
+    newText("<p>What is your native language?</p>")
+    ,
+    newTextInput("NativeLang")
+        .inputWarning("We would like you to type some text in these fields")
+        .print()
+    ,    
+    newText("<p>Do you speak any other languages?</p>")
+    ,
+    newTextInput("OtherLangs")
+        .inputWarning("We would like you to type some text in these fields")
+        .print()
+    ,
+    newButton("Start")
+        .center()
         .print()
         .wait()
     ,
     newVar("ID")
         .global()
         .set( getTextInput("inputID") )
+    ,
+    newVar("NativeLang")
+        .global()
+        .set( getTextInput("NativeLang") )
+    ,
+    newVar("OtherLangs")
+        .global()
+        .set( getTextInput("NativeLang") )
+)
+.log( "ID" , getVar("ID") )
+.log( "NativeLang" , getVar("NativeLang") )
+.log( "OtherLangs" , getVar("OtherLangs") )
+
+
+newTrial("instructions",
+    defaultText
+        .center()
+        .print()
+    ,
+    newText("<p>In this experiment, we will ask you to decide whether you agree or disagree with a statement.</p>")
+    ,
+    newButton("Let's practice!")
+        .center()
+        .print()
+        .wait()
 )
 
-.log( "ID" , getVar("ID") )
+
+newTrial( "trainT",
+        newTimer(500)
+            .start()
+            .wait()
+        ,
+        newText("<p>First you will see a sentence like:</p>")
+            .center()
+            .print()
+        ,
+        newText( "<p>Houses can be made of wood.</p>" )
+            .center()
+            .print()
+        ,
+        newText("<p> If you <strong>Agree</strong> with the sentence, press <strong>F</strong>. If you <strong>Disagree</strong>, then press <strong>J</strong><p>")
+            .center()
+            .print()
+        ,
+        newSelector()
+            .add( newText("Agree"), newText("Disagree"))
+            .center()
+            .keys("F", "J")
+            .log()
+            .wait()
+        ,
+        newTimer(500)
+            .start()
+            .wait()
+)
+
+newTrial( "trainF",
+        newTimer(500)
+            .start()
+            .wait()
+        ,
+        newText("<p>First you will see a sentence like:</p>")
+            .center()
+            .print()
+        ,
+        newText( "<p>Airplanes fly under water.</p>" )
+            .center()
+            .print()
+        ,
+        newText("<p> If you <strong>Agree</strong> with the sentence, press <strong>F</strong>. If you <strong>Disagree</strong>, then press <strong>J</strong><p>")
+            .center()
+            .print()
+        ,
+        newSelector()
+            .add( newText("Agree"), newText("Disagree"))
+            .center()
+            .keys("F", "J")
+            .log()
+            .wait()
+        ,
+        newTimer(500)
+            .start()
+            .wait()
+)
+
 
 // What is in Header happens at the beginning of every single trial
 Header(
@@ -44,6 +161,28 @@ Header(
 )
 .log( "ID" , getVar("ID") )
 // This log command adds a column reporting the participant's name to every line saved to the results
+
+
+newTrial("end_train",
+    
+    defaultText
+        .center()
+        .print()
+    ,    
+    newText("<p>Great Job!</p>")
+    ,
+    newText("<p>Remember, Press the <strong>F</strong> key to Agree, or the <strong>J</strong> key to Disagree.</p>")
+    ,
+    newButton("Click here to start the experiment")
+        .center()
+        .print()
+        .wait()
+    ,
+    newVar("ID")
+        .global()
+        .set( getTextInput("inputID") )
+)
+.log( "ID" , getVar("ID") )
 
 
 Template( "bn_table.csv", row =>
@@ -88,12 +227,15 @@ SendResults( "send" )
 
 newTrial("end",
     newText("<p>Thank you for your participation!</p>")
+        .center()
         .print()
     ,
     newText("Your participation code is: 3bc8068f")
+        .center()
         .print()
     ,
     newText("<p><a href='https://rutgerslinguistics.sona-systems.com/Default.aspx?ReturnUrl=%2f'>Click here to validate your participation.</a></p>")
+        .center()
         .print()
     ,
     newButton("void")
