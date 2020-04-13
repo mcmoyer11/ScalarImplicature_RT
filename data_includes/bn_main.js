@@ -2,7 +2,7 @@ PennController.ResetPrefix(null); // Initiates PennController
 
 // CHEMLA & BOTT TRIALS
 
-Sequence("intro","consent", "demo","instructions", "trainT", "trainF", "end_train", randomize("trial"), "send", "final")
+Sequence("intro","consent", "demo","instructions", "trainT", "trainF","train_thinkT","train_thinkF", "end_train", randomize("trial"), "send", "final")
 
 newTrial("intro",
     defaultText
@@ -128,6 +128,64 @@ newTrial( "trainF",
             .print()
         ,
         newText( "<p>Airplanes fly under water.</p>" )
+            .center()
+            .print()
+        ,
+        newText("<p> If you <strong>Agree</strong> with the sentence, press <strong>F</strong>. If you <strong>Disagree</strong>, then press <strong>J</strong><p>")
+            .center()
+            .print()
+        ,
+        newSelector()
+            .add( newText("Agree"), newText("Disagree"))
+            .center()
+            .keys("F", "J")
+            .log()
+            .wait()
+        ,
+        newTimer(500)
+            .start()
+            .wait()
+)
+
+newTrial( "train_thinkT",
+        newTimer(500)
+            .start()
+            .wait()
+        ,
+        newText("<p>First you will see a sentence like:</p>")
+            .center()
+            .print()
+        ,
+        newText( "<p>Historians think that the US is currently a British colony.</p>" )
+            .center()
+            .print()
+        ,
+        newText("<p> If you <strong>Agree</strong> with the sentence, press <strong>F</strong>. If you <strong>Disagree</strong>, then press <strong>J</strong><p>")
+            .center()
+            .print()
+        ,
+        newSelector()
+            .add( newText("Agree"), newText("Disagree"))
+            .center()
+            .keys("F", "J")
+            .log()
+            .wait()
+        ,
+        newTimer(500)
+            .start()
+            .wait()
+)
+
+newTrial( "train_thinkF",
+        newTimer(500)
+            .start()
+            .wait()
+        ,
+        newText("<p>Practice.</p>")
+            .center()
+            .print()
+        ,
+        newText( "<p>Geographers think that Spain is in Africa.</p>" )
             .center()
             .print()
         ,
