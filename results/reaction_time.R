@@ -3,6 +3,7 @@
 ############################
 # Stats for Reaction Time Study
 ############################
+require(dplyr)
 
 setwd("/Users/morganmoyer/Dropbox/Moyer_research/Embedded_Questions/Dissertation/Experiments/Reaction_time/")
 # source("helpers.R")
@@ -40,19 +41,19 @@ read.pcibex <- function(filepath, auto.colnames=TRUE, fun.col=function(col,cols)
     return(read.csv(filepath, comment.char="#", header=FALSE, col.names=seq(1:n.cols)))
   }
 }
-r <- read.pcibex("results")
+rs <- read.pcibex("results_speeded")
+rp <- read.pcibex("results_selfpaced")
 
-View(r)
+View(rp)
 
-require(dplyr)
 # results %>%
 #   filter(Ending %in% c("No-s","-s") & (Parameter == "Selection" | Value == "Start")) %>%
 #   mutate(Accurate = rep(Value[Parameter=="Selection"]==gsub("No-s","two", gsub("-s", "one", Ending[Parameter=="Selection"])), each=2)) %>%
 #   group_by(Accurate, Ending, Group, ID) %>%
 #   summarise( RT = mean(EventTime[Parameter=="Selection"] - EventTime[Value=="Start"]) , N = length(Value)/2 )
 
-bn = r %>%
-  filter((Parameter == "Selection" | Value == "Start") & Type %in% c("test")) %>%
+bn = rs %>%
+  filter(Type %in% c("test") & (Parameter == "Selection" | Value == "Start")) %>%
   # mutate(Accurate = rep(Value[Parameter=="Selection"]==gsub("No-s","two", gsub("-s", "one", Ending[Parameter=="Selection"])), each=2)) %>%
   group_by(ID, Group, Verb, SentType, Value) %>%
   summarise( RT = mean(EventTime[Parameter=="Selection"] - EventTime[Value=="Start"]) , N = length(Value)/2 )

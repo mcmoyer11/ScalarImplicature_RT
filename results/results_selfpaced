@@ -1,0 +1,2871 @@
+#
+# Results on Wednesday April 15 2020 13:14:50 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:75.0) Gecko/20100101 Firefox/75.0
+# Design number was non-random = 12
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,0,0,intro,NULL,PennController,0,_Trial_,Start,1586956240565,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,0,0,intro,NULL,PennController,0,_Trial_,End,1586956241802,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,1,0,consent,NULL,PennController,1,_Trial_,Start,1586956241806,skdflkasdj,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,1,0,consent,NULL,TextInput,ID,First,,1586956243313,skdflkasdj,s
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,1,0,consent,NULL,TextInput,ID,Final,skdflkasdj,1586956244240,skdflkasdj,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,1,0,consent,NULL,PennController,1,_Trial_,End,1586956244241,skdflkasdj,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. NativeLang.
+# 14. OtherLangs.
+# 15. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,2,0,demo,NULL,PennController,2,_Trial_,Start,1586956244245,lkjdlkjdsf,dfkljasflj,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,2,0,demo,NULL,TextInput,NativeLang,First,,1586956245699,lkjdlkjdsf,dfkljasflj,l
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,2,0,demo,NULL,TextInput,NativeLang,Final,lkjdlkjdsf,1586956249709,lkjdlkjdsf,dfkljasflj,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,2,0,demo,NULL,PennController,2,_Trial_,End,1586956249710,lkjdlkjdsf,dfkljasflj,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,3,0,instructions,NULL,PennController,3,_Trial_,Start,1586956249716,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,3,0,instructions,NULL,PennController,3,_Trial_,End,1586956251427,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Type.
+#     Col. 15: Sentence.
+#     Col. 16: Feedback.
+#     Col. 17: Comments.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Type.
+#     Col. 15: Sentence.
+#     Col. 16: Feedback.
+#     Col. 17: Reading time.
+#     Col. 18: Newline?
+#     Col. 19: Sentence (or sentence MD5).
+#     Col. 20: Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,4,0,Train,NULL,PennController,6,_Trial_,Start,1586956251431,skdflkasdj,train_T,Houses can be made of wood.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,4,0,Train,NULL,Controller-DashedSentence,DashedSentence,1,Houses,1586956255171,skdflkasdj,train_T,Houses can be made of wood.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,349,false,Houses can be made of wood.,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Type.
+# 15. Sentence.
+# 16. Feedback.
+# 17. Reading time.
+# 18. Newline?
+# 19. Sentence (or sentence MD5).
+# 20. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,4,0,Train,NULL,Controller-DashedSentence,DashedSentence,2,can,1586956255171,skdflkasdj,train_T,Houses can be made of wood.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,315,false,Houses can be made of wood.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,4,0,Train,NULL,Controller-DashedSentence,DashedSentence,3,be,1586956255171,skdflkasdj,train_T,Houses can be made of wood.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,337,false,Houses can be made of wood.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,4,0,Train,NULL,Controller-DashedSentence,DashedSentence,4,made,1586956255171,skdflkasdj,train_T,Houses can be made of wood.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,505,false,Houses can be made of wood.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,4,0,Train,NULL,Controller-DashedSentence,DashedSentence,5,of,1586956255171,skdflkasdj,train_T,Houses can be made of wood.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,350,false,Houses can be made of wood.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,4,0,Train,NULL,Controller-DashedSentence,DashedSentence,6,wood.,1586956255171,skdflkasdj,train_T,Houses can be made of wood.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,472,false,Houses can be made of wood.,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Type.
+# 15. Sentence.
+# 16. Feedback.
+# 17. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,4,0,Train,NULL,Selector,unnamed-Selector,Selection,Agree,1586956256230,skdflkasdj,train_T,Houses can be made of wood.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,4,0,Train,NULL,PennController,6,_Trial_,End,1586956256233,skdflkasdj,train_T,Houses can be made of wood.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,5,0,Train,NULL,PennController,7,_Trial_,Start,1586956256238,skdflkasdj,train_F,Airplanes fly under water.,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Type.
+# 15. Sentence.
+# 16. Feedback.
+# 17. Reading time.
+# 18. Newline?
+# 19. Sentence (or sentence MD5).
+# 20. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,5,0,Train,NULL,Controller-DashedSentence,DashedSentence,1,Airplanes,1586956258705,skdflkasdj,train_F,Airplanes fly under water.,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,382,false,Airplanes fly under water.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,5,0,Train,NULL,Controller-DashedSentence,DashedSentence,2,fly,1586956258705,skdflkasdj,train_F,Airplanes fly under water.,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,361,false,Airplanes fly under water.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,5,0,Train,NULL,Controller-DashedSentence,DashedSentence,3,under,1586956258705,skdflkasdj,train_F,Airplanes fly under water.,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,495,false,Airplanes fly under water.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,5,0,Train,NULL,Controller-DashedSentence,DashedSentence,4,water.,1586956258705,skdflkasdj,train_F,Airplanes fly under water.,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,394,false,Airplanes fly under water.,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Type.
+# 15. Sentence.
+# 16. Feedback.
+# 17. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,5,0,Train,NULL,Selector,unnamed-Selector,Selection,Disagree,1586956259659,skdflkasdj,train_F,Airplanes fly under water.,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,5,0,Train,NULL,PennController,7,_Trial_,End,1586956259660,skdflkasdj,train_F,Airplanes fly under water.,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,6,0,Train,NULL,PennController,8,_Trial_,Start,1586956259664,skdflkasdj,train_think_T,Historians think that George Washington was a US president.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Type.
+# 15. Sentence.
+# 16. Feedback.
+# 17. Reading time.
+# 18. Newline?
+# 19. Sentence (or sentence MD5).
+# 20. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,6,0,Train,NULL,Controller-DashedSentence,DashedSentence,1,Historians,1586956264926,skdflkasdj,train_think_T,Historians think that George Washington was a US president.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,394,false,Historians think that George Washington was a US president.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,6,0,Train,NULL,Controller-DashedSentence,DashedSentence,2,think,1586956264926,skdflkasdj,train_think_T,Historians think that George Washington was a US president.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,336,false,Historians think that George Washington was a US president.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,6,0,Train,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956264926,skdflkasdj,train_think_T,Historians think that George Washington was a US president.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,395,false,Historians think that George Washington was a US president.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,6,0,Train,NULL,Controller-DashedSentence,DashedSentence,4,George,1586956264926,skdflkasdj,train_think_T,Historians think that George Washington was a US president.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,370,false,Historians think that George Washington was a US president.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,6,0,Train,NULL,Controller-DashedSentence,DashedSentence,5,Washington,1586956264926,skdflkasdj,train_think_T,Historians think that George Washington was a US president.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,866,false,Historians think that George Washington was a US president.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,6,0,Train,NULL,Controller-DashedSentence,DashedSentence,6,was,1586956264926,skdflkasdj,train_think_T,Historians think that George Washington was a US president.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,418,false,Historians think that George Washington was a US president.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,6,0,Train,NULL,Controller-DashedSentence,DashedSentence,7,a,1586956264926,skdflkasdj,train_think_T,Historians think that George Washington was a US president.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,382,false,Historians think that George Washington was a US president.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,6,0,Train,NULL,Controller-DashedSentence,DashedSentence,8,US,1586956264926,skdflkasdj,train_think_T,Historians think that George Washington was a US president.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,338,false,Historians think that George Washington was a US president.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,6,0,Train,NULL,Controller-DashedSentence,DashedSentence,9,president.,1586956264926,skdflkasdj,train_think_T,Historians think that George Washington was a US president.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,439,false,Historians think that George Washington was a US president.,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Type.
+# 15. Sentence.
+# 16. Feedback.
+# 17. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,6,0,Train,NULL,Selector,unnamed-Selector,Selection,Agree,1586956265397,skdflkasdj,train_think_T,Historians think that George Washington was a US president.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,6,0,Train,NULL,PennController,8,_Trial_,End,1586956265400,skdflkasdj,train_think_T,Historians think that George Washington was a US president.,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,7,0,Train,NULL,PennController,9,_Trial_,Start,1586956265403,skdflkasdj,train_think_F,Geographers think that Spain is in Africa.,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Type.
+# 15. Sentence.
+# 16. Feedback.
+# 17. Reading time.
+# 18. Newline?
+# 19. Sentence (or sentence MD5).
+# 20. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,7,0,Train,NULL,Controller-DashedSentence,DashedSentence,1,Geographers,1586956269122,skdflkasdj,train_think_F,Geographers think that Spain is in Africa.,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,395,false,Geographers think that Spain is in Africa.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,7,0,Train,NULL,Controller-DashedSentence,DashedSentence,2,think,1586956269122,skdflkasdj,train_think_F,Geographers think that Spain is in Africa.,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,405,false,Geographers think that Spain is in Africa.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,7,0,Train,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956269122,skdflkasdj,train_think_F,Geographers think that Spain is in Africa.,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,338,false,Geographers think that Spain is in Africa.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,7,0,Train,NULL,Controller-DashedSentence,DashedSentence,4,Spain,1586956269122,skdflkasdj,train_think_F,Geographers think that Spain is in Africa.,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,483,false,Geographers think that Spain is in Africa.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,7,0,Train,NULL,Controller-DashedSentence,DashedSentence,5,is,1586956269122,skdflkasdj,train_think_F,Geographers think that Spain is in Africa.,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,439,false,Geographers think that Spain is in Africa.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,7,0,Train,NULL,Controller-DashedSentence,DashedSentence,6,in,1586956269122,skdflkasdj,train_think_F,Geographers think that Spain is in Africa.,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,439,false,Geographers think that Spain is in Africa.,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,7,0,Train,NULL,Controller-DashedSentence,DashedSentence,7,Africa.,1586956269122,skdflkasdj,train_think_F,Geographers think that Spain is in Africa.,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,664,false,Geographers think that Spain is in Africa.,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Type.
+# 15. Sentence.
+# 16. Feedback.
+# 17. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,7,0,Train,NULL,Selector,unnamed-Selector,Selection,Agree,1586956269841,skdflkasdj,train_think_F,Geographers think that Spain is in Africa.,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,7,0,Train,NULL,PennController,9,_Trial_,End,1586956269843,skdflkasdj,train_think_F,Geographers think that Spain is in Africa.,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,8,0,end_train,NULL,PennController,4,_Trial_,Start,1586956269847,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,8,0,end_train,NULL,PennController,4,_Trial_,End,1586956272193,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: SentNumber.
+#     Col. 15: Quantifier.
+#     Col. 16: Matrix.
+#     Col. 17: WhichCategory.
+#     Col. 18: Subject.
+#     Col. 19: Predicate.
+#     Col. 20: SentType.
+#     Col. 21: Verb.
+#     Col. 22: Embedded.
+#     Col. 23: Token.
+#     Col. 24: MatchingCategory.
+#     Col. 25: MismatchingCategory.
+#     Col. 26: Group.
+#     Col. 27: Comments.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: SentNumber.
+#     Col. 15: Quantifier.
+#     Col. 16: Matrix.
+#     Col. 17: WhichCategory.
+#     Col. 18: Subject.
+#     Col. 19: Predicate.
+#     Col. 20: SentType.
+#     Col. 21: Verb.
+#     Col. 22: Embedded.
+#     Col. 23: Token.
+#     Col. 24: MatchingCategory.
+#     Col. 25: MismatchingCategory.
+#     Col. 26: Group.
+#     Col. 27: Reading time.
+#     Col. 28: Newline?
+#     Col. 29: Sentence (or sentence MD5).
+#     Col. 30: Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,42,0,test,NULL,PennController,43,_Trial_,Start,1586956272195,skdflkasdj,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,flies,insects,fishes,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,42,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956276446,skdflkasdj,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,flies,insects,fishes,M,225,false,Zoologists know that all insects are flies,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,42,0,test,NULL,Controller-DashedSentence,DashedSentence,2,know,1586956276446,skdflkasdj,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,flies,insects,fishes,M,507,false,Zoologists know that all insects are flies,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,42,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956276446,skdflkasdj,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,flies,insects,fishes,M,349,false,Zoologists know that all insects are flies,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,42,0,test,NULL,Controller-DashedSentence,DashedSentence,4,all,1586956276446,skdflkasdj,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,flies,insects,fishes,M,439,false,Zoologists know that all insects are flies,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,42,0,test,NULL,Controller-DashedSentence,DashedSentence,5,insects,1586956276446,skdflkasdj,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,flies,insects,fishes,M,449,false,Zoologists know that all insects are flies,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,42,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956276446,skdflkasdj,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,flies,insects,fishes,M,416,false,Zoologists know that all insects are flies,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,42,0,test,NULL,Controller-DashedSentence,DashedSentence,7,flies,1586956276446,skdflkasdj,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,flies,insects,fishes,M,473,false,Zoologists know that all insects are flies,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,42,0,test,NULL,Selector,unnamed-Selector,Selection,Agree,1586956277492,skdflkasdj,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,flies,insects,fishes,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,42,0,test,NULL,PennController,43,_Trial_,End,1586956277494,skdflkasdj,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,flies,insects,fishes,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,16,0,test,NULL,PennController,17,_Trial_,Start,1586956277497,skdflkasdj,4,some,,Mismatching,Token,Category,T3,none,0,peaches,fruit,insects,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,16,0,test,NULL,Controller-DashedSentence,DashedSentence,1,,1586956280777,skdflkasdj,4,some,,Mismatching,Token,Category,T3,none,0,peaches,fruit,insects,M,395,false, some peaches are insects,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,16,0,test,NULL,Controller-DashedSentence,DashedSentence,2,some,1586956280777,skdflkasdj,4,some,,Mismatching,Token,Category,T3,none,0,peaches,fruit,insects,M,461,false, some peaches are insects,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,16,0,test,NULL,Controller-DashedSentence,DashedSentence,3,peaches,1586956280777,skdflkasdj,4,some,,Mismatching,Token,Category,T3,none,0,peaches,fruit,insects,M,417,false, some peaches are insects,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,16,0,test,NULL,Controller-DashedSentence,DashedSentence,4,are,1586956280777,skdflkasdj,4,some,,Mismatching,Token,Category,T3,none,0,peaches,fruit,insects,M,392,false, some peaches are insects,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,16,0,test,NULL,Controller-DashedSentence,DashedSentence,5,insects,1586956280777,skdflkasdj,4,some,,Mismatching,Token,Category,T3,none,0,peaches,fruit,insects,M,462,false, some peaches are insects,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,16,0,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1586956281800,skdflkasdj,4,some,,Mismatching,Token,Category,T3,none,0,peaches,fruit,insects,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,16,0,test,NULL,PennController,17,_Trial_,End,1586956281802,skdflkasdj,4,some,,Mismatching,Token,Category,T3,none,0,peaches,fruit,insects,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,28,0,test,NULL,PennController,29,_Trial_,Start,1586956281806,skdflkasdj,10,all,,Matching,Token,Category,T4,none,0,pigs,mammals,fruit,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,28,0,test,NULL,Controller-DashedSentence,DashedSentence,1,,1586956284758,skdflkasdj,10,all,,Matching,Token,Category,T4,none,0,pigs,mammals,fruit,M,562,false, all pigs are mammals,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,28,0,test,NULL,Controller-DashedSentence,DashedSentence,2,all,1586956284758,skdflkasdj,10,all,,Matching,Token,Category,T4,none,0,pigs,mammals,fruit,M,495,false, all pigs are mammals,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,28,0,test,NULL,Controller-DashedSentence,DashedSentence,3,pigs,1586956284758,skdflkasdj,10,all,,Matching,Token,Category,T4,none,0,pigs,mammals,fruit,M,393,false, all pigs are mammals,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,28,0,test,NULL,Controller-DashedSentence,DashedSentence,4,are,1586956284758,skdflkasdj,10,all,,Matching,Token,Category,T4,none,0,pigs,mammals,fruit,M,395,false, all pigs are mammals,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,28,0,test,NULL,Controller-DashedSentence,DashedSentence,5,mammals,1586956284758,skdflkasdj,10,all,,Matching,Token,Category,T4,none,0,pigs,mammals,fruit,M,426,false, all pigs are mammals,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,28,0,test,NULL,Selector,unnamed-Selector,Selection,Agree,1586956285750,skdflkasdj,10,all,,Matching,Token,Category,T4,none,0,pigs,mammals,fruit,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,28,0,test,NULL,PennController,29,_Trial_,End,1586956285752,skdflkasdj,10,all,,Matching,Token,Category,T4,none,0,pigs,mammals,fruit,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,37,0,test,NULL,PennController,38,_Trial_,Start,1586956285756,skdflkasdj,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,cod,fishes,birds,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,37,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956289294,skdflkasdj,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,cod,fishes,birds,M,462,false,Zoologists say that all cod are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,37,0,test,NULL,Controller-DashedSentence,DashedSentence,2,say,1586956289294,skdflkasdj,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,cod,fishes,birds,M,405,false,Zoologists say that all cod are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,37,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956289294,skdflkasdj,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,cod,fishes,birds,M,383,false,Zoologists say that all cod are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,37,0,test,NULL,Controller-DashedSentence,DashedSentence,4,all,1586956289294,skdflkasdj,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,cod,fishes,birds,M,416,false,Zoologists say that all cod are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,37,0,test,NULL,Controller-DashedSentence,DashedSentence,5,cod,1586956289294,skdflkasdj,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,cod,fishes,birds,M,438,false,Zoologists say that all cod are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,37,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956289294,skdflkasdj,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,cod,fishes,birds,M,383,false,Zoologists say that all cod are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,37,0,test,NULL,Controller-DashedSentence,DashedSentence,7,birds,1586956289294,skdflkasdj,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,cod,fishes,birds,M,417,false,Zoologists say that all cod are birds,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,37,0,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1586956290407,skdflkasdj,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,cod,fishes,birds,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,37,0,test,NULL,PennController,38,_Trial_,End,1586956290408,skdflkasdj,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,cod,fishes,birds,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,15,0,test,NULL,PennController,16,_Trial_,Start,1586956290412,skdflkasdj,4,some,,Mismatching,Token,Category,T3,none,0,owls,birds,reptiles,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,15,0,test,NULL,Controller-DashedSentence,DashedSentence,1,,1586956295908,skdflkasdj,4,some,,Mismatching,Token,Category,T3,none,0,owls,birds,reptiles,M,529,false, some owls are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,15,0,test,NULL,Controller-DashedSentence,DashedSentence,2,some,1586956295908,skdflkasdj,4,some,,Mismatching,Token,Category,T3,none,0,owls,birds,reptiles,M,438,false, some owls are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,15,0,test,NULL,Controller-DashedSentence,DashedSentence,3,owls,1586956295908,skdflkasdj,4,some,,Mismatching,Token,Category,T3,none,0,owls,birds,reptiles,M,427,false, some owls are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,15,0,test,NULL,Controller-DashedSentence,DashedSentence,4,are,1586956295908,skdflkasdj,4,some,,Mismatching,Token,Category,T3,none,0,owls,birds,reptiles,M,417,false, some owls are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,15,0,test,NULL,Controller-DashedSentence,DashedSentence,5,reptiles,1586956295908,skdflkasdj,4,some,,Mismatching,Token,Category,T3,none,0,owls,birds,reptiles,M,742,false, some owls are reptiles,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,15,0,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1586956296314,skdflkasdj,4,some,,Mismatching,Token,Category,T3,none,0,owls,birds,reptiles,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,15,0,test,NULL,PennController,16,_Trial_,End,1586956296318,skdflkasdj,4,some,,Mismatching,Token,Category,T3,none,0,owls,birds,reptiles,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,12,0,test,NULL,PennController,13,_Trial_,Start,1586956296321,skdflkasdj,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,bananas,fruit,insects,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,12,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956300938,skdflkasdj,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,bananas,fruit,insects,M,427,false,Zoologists know that some bananas are fruit,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,12,0,test,NULL,Controller-DashedSentence,DashedSentence,2,know,1586956300938,skdflkasdj,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,bananas,fruit,insects,M,440,false,Zoologists know that some bananas are fruit,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,12,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956300938,skdflkasdj,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,bananas,fruit,insects,M,426,false,Zoologists know that some bananas are fruit,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,12,0,test,NULL,Controller-DashedSentence,DashedSentence,4,some,1586956300938,skdflkasdj,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,bananas,fruit,insects,M,451,false,Zoologists know that some bananas are fruit,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,12,0,test,NULL,Controller-DashedSentence,DashedSentence,5,bananas,1586956300938,skdflkasdj,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,bananas,fruit,insects,M,427,false,Zoologists know that some bananas are fruit,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,12,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956300938,skdflkasdj,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,bananas,fruit,insects,M,461,false,Zoologists know that some bananas are fruit,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,12,0,test,NULL,Controller-DashedSentence,DashedSentence,7,fruit,1586956300938,skdflkasdj,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,bananas,fruit,insects,M,1249,false,Zoologists know that some bananas are fruit,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,12,0,test,NULL,Selector,unnamed-Selector,Selection,Agree,1586956301431,skdflkasdj,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,bananas,fruit,insects,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,12,0,test,NULL,PennController,13,_Trial_,End,1586956301434,skdflkasdj,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,bananas,fruit,insects,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,19,0,test,NULL,PennController,20,_Trial_,Start,1586956301436,skdflkasdj,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,doves,birds,reptiles,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,19,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956305291,skdflkasdj,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,doves,birds,reptiles,M,451,false,Zoologists say that some doves are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,19,0,test,NULL,Controller-DashedSentence,DashedSentence,2,say,1586956305291,skdflkasdj,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,doves,birds,reptiles,M,450,false,Zoologists say that some doves are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,19,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956305291,skdflkasdj,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,doves,birds,reptiles,M,449,false,Zoologists say that some doves are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,19,0,test,NULL,Controller-DashedSentence,DashedSentence,4,some,1586956305291,skdflkasdj,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,doves,birds,reptiles,M,451,false,Zoologists say that some doves are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,19,0,test,NULL,Controller-DashedSentence,DashedSentence,5,doves,1586956305291,skdflkasdj,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,doves,birds,reptiles,M,460,false,Zoologists say that some doves are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,19,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956305291,skdflkasdj,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,doves,birds,reptiles,M,440,false,Zoologists say that some doves are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,19,0,test,NULL,Controller-DashedSentence,DashedSentence,7,reptiles,1586956305291,skdflkasdj,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,doves,birds,reptiles,M,562,false,Zoologists say that some doves are reptiles,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,19,0,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1586956306393,skdflkasdj,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,doves,birds,reptiles,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,19,0,test,NULL,PennController,20,_Trial_,End,1586956306395,skdflkasdj,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,doves,birds,reptiles,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,40,0,test,NULL,PennController,41,_Trial_,Start,1586956306397,skdflkasdj,16,all,,Matching,Category,Token,T5,none,0,ants,insects,fishes,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,40,0,test,NULL,Controller-DashedSentence,DashedSentence,1,,1586956310140,skdflkasdj,16,all,,Matching,Category,Token,T5,none,0,ants,insects,fishes,M,551,false, all insects are ants,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,40,0,test,NULL,Controller-DashedSentence,DashedSentence,2,all,1586956310140,skdflkasdj,16,all,,Matching,Category,Token,T5,none,0,ants,insects,fishes,M,462,false, all insects are ants,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,40,0,test,NULL,Controller-DashedSentence,DashedSentence,3,insects,1586956310140,skdflkasdj,16,all,,Matching,Category,Token,T5,none,0,ants,insects,fishes,M,484,false, all insects are ants,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,40,0,test,NULL,Controller-DashedSentence,DashedSentence,4,are,1586956310140,skdflkasdj,16,all,,Matching,Category,Token,T5,none,0,ants,insects,fishes,M,539,false, all insects are ants,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,40,0,test,NULL,Controller-DashedSentence,DashedSentence,5,ants,1586956310140,skdflkasdj,16,all,,Matching,Category,Token,T5,none,0,ants,insects,fishes,M,1092,false, all insects are ants,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,40,0,test,NULL,Selector,unnamed-Selector,Selection,Agree,1586956311659,skdflkasdj,16,all,,Matching,Category,Token,T5,none,0,ants,insects,fishes,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,40,0,test,NULL,PennController,41,_Trial_,End,1586956311660,skdflkasdj,16,all,,Matching,Category,Token,T5,none,0,ants,insects,fishes,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,38,0,test,NULL,PennController,39,_Trial_,Start,1586956311663,skdflkasdj,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,cicadas,insects,fishes,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,38,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956315912,skdflkasdj,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,cicadas,insects,fishes,M,474,false,Zoologists say that all cicadas are fishes,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,38,0,test,NULL,Controller-DashedSentence,DashedSentence,2,say,1586956315912,skdflkasdj,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,cicadas,insects,fishes,M,461,false,Zoologists say that all cicadas are fishes,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,38,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956315912,skdflkasdj,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,cicadas,insects,fishes,M,439,false,Zoologists say that all cicadas are fishes,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,38,0,test,NULL,Controller-DashedSentence,DashedSentence,4,all,1586956315912,skdflkasdj,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,cicadas,insects,fishes,M,393,false,Zoologists say that all cicadas are fishes,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,38,0,test,NULL,Controller-DashedSentence,DashedSentence,5,cicadas,1586956315912,skdflkasdj,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,cicadas,insects,fishes,M,485,false,Zoologists say that all cicadas are fishes,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,38,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956315912,skdflkasdj,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,cicadas,insects,fishes,M,416,false,Zoologists say that all cicadas are fishes,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,38,0,test,NULL,Controller-DashedSentence,DashedSentence,7,fishes,1586956315912,skdflkasdj,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,cicadas,insects,fishes,M,687,false,Zoologists say that all cicadas are fishes,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,38,0,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1586956317530,skdflkasdj,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,cicadas,insects,fishes,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,38,0,test,NULL,PennController,39,_Trial_,End,1586956317532,skdflkasdj,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,cicadas,insects,fishes,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,43,0,test,NULL,PennController,44,_Trial_,Start,1586956317535,skdflkasdj,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,herring,fishes,birds,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,43,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956321784,skdflkasdj,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,herring,fishes,birds,M,450,false,Zoologists say that all fishes are herring,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,43,0,test,NULL,Controller-DashedSentence,DashedSentence,2,say,1586956321784,skdflkasdj,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,herring,fishes,birds,M,472,false,Zoologists say that all fishes are herring,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,43,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956321784,skdflkasdj,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,herring,fishes,birds,M,485,false,Zoologists say that all fishes are herring,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,43,0,test,NULL,Controller-DashedSentence,DashedSentence,4,all,1586956321784,skdflkasdj,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,herring,fishes,birds,M,506,false,Zoologists say that all fishes are herring,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,43,0,test,NULL,Controller-DashedSentence,DashedSentence,5,fishes,1586956321784,skdflkasdj,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,herring,fishes,birds,M,460,false,Zoologists say that all fishes are herring,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,43,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956321784,skdflkasdj,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,herring,fishes,birds,M,473,false,Zoologists say that all fishes are herring,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,43,0,test,NULL,Controller-DashedSentence,DashedSentence,7,herring,1586956321784,skdflkasdj,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,herring,fishes,birds,M,709,false,Zoologists say that all fishes are herring,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,43,0,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1586956327466,skdflkasdj,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,herring,fishes,birds,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,43,0,test,NULL,PennController,44,_Trial_,End,1586956327467,skdflkasdj,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,herring,fishes,birds,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,36,0,test,NULL,PennController,37,_Trial_,Start,1586956327470,skdflkasdj,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,cockroaches,insects,fishes,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,36,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956332042,skdflkasdj,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,cockroaches,insects,fishes,M,416,false,Zoologists know that all cockroaches are fishes,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,36,0,test,NULL,Controller-DashedSentence,DashedSentence,2,know,1586956332042,skdflkasdj,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,cockroaches,insects,fishes,M,506,false,Zoologists know that all cockroaches are fishes,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,36,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956332042,skdflkasdj,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,cockroaches,insects,fishes,M,496,false,Zoologists know that all cockroaches are fishes,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,36,0,test,NULL,Controller-DashedSentence,DashedSentence,4,all,1586956332042,skdflkasdj,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,cockroaches,insects,fishes,M,447,false,Zoologists know that all cockroaches are fishes,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,36,0,test,NULL,Controller-DashedSentence,DashedSentence,5,cockroaches,1586956332042,skdflkasdj,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,cockroaches,insects,fishes,M,675,false,Zoologists know that all cockroaches are fishes,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,36,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956332042,skdflkasdj,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,cockroaches,insects,fishes,M,585,false,Zoologists know that all cockroaches are fishes,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,36,0,test,NULL,Controller-DashedSentence,DashedSentence,7,fishes,1586956332042,skdflkasdj,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,cockroaches,insects,fishes,M,765,false,Zoologists know that all cockroaches are fishes,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,36,0,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1586956332415,skdflkasdj,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,cockroaches,insects,fishes,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,36,0,test,NULL,PennController,37,_Trial_,End,1586956332416,skdflkasdj,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,cockroaches,insects,fishes,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,26,0,test,NULL,PennController,27,_Trial_,Start,1586956332419,skdflkasdj,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,dogs,mammals,fruit,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,26,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956337658,skdflkasdj,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,dogs,mammals,fruit,M,732,false,Zoologists say that some mammals are dogs,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,26,0,test,NULL,Controller-DashedSentence,DashedSentence,2,say,1586956337658,skdflkasdj,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,dogs,mammals,fruit,M,562,false,Zoologists say that some mammals are dogs,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,26,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956337658,skdflkasdj,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,dogs,mammals,fruit,M,450,false,Zoologists say that some mammals are dogs,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,26,0,test,NULL,Controller-DashedSentence,DashedSentence,4,some,1586956337658,skdflkasdj,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,dogs,mammals,fruit,M,461,false,Zoologists say that some mammals are dogs,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,26,0,test,NULL,Controller-DashedSentence,DashedSentence,5,mammals,1586956337658,skdflkasdj,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,dogs,mammals,fruit,M,777,false,Zoologists say that some mammals are dogs,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,26,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956337658,skdflkasdj,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,dogs,mammals,fruit,M,843,false,Zoologists say that some mammals are dogs,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,26,0,test,NULL,Controller-DashedSentence,DashedSentence,7,dogs,1586956337658,skdflkasdj,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,dogs,mammals,fruit,M,923,false,Zoologists say that some mammals are dogs,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,26,0,test,NULL,Selector,unnamed-Selector,Selection,Agree,1586956338097,skdflkasdj,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,dogs,mammals,fruit,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,26,0,test,NULL,PennController,27,_Trial_,End,1586956338098,skdflkasdj,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,dogs,mammals,fruit,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,35,0,test,NULL,PennController,36,_Trial_,Start,1586956338100,skdflkasdj,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,carp,fishes,birds,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,35,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956344004,skdflkasdj,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,carp,fishes,birds,M,608,false,Zoologists know that all carp are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,35,0,test,NULL,Controller-DashedSentence,DashedSentence,2,know,1586956344004,skdflkasdj,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,carp,fishes,birds,M,437,false,Zoologists know that all carp are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,35,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956344004,skdflkasdj,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,carp,fishes,birds,M,418,false,Zoologists know that all carp are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,35,0,test,NULL,Controller-DashedSentence,DashedSentence,4,all,1586956344004,skdflkasdj,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,carp,fishes,birds,M,541,false,Zoologists know that all carp are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,35,0,test,NULL,Controller-DashedSentence,DashedSentence,5,carp,1586956344004,skdflkasdj,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,carp,fishes,birds,M,663,false,Zoologists know that all carp are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,35,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956344004,skdflkasdj,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,carp,fishes,birds,M,563,false,Zoologists know that all carp are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,35,0,test,NULL,Controller-DashedSentence,DashedSentence,7,birds,1586956344004,skdflkasdj,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,carp,fishes,birds,M,2082,false,Zoologists know that all carp are birds,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,35,0,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1586956344408,skdflkasdj,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,carp,fishes,birds,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,35,0,test,NULL,PennController,36,_Trial_,End,1586956344410,skdflkasdj,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,carp,fishes,birds,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,32,0,test,NULL,PennController,33,_Trial_,Start,1586956344412,skdflkasdj,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,sheep,mammals,fruit,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,32,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956351137,skdflkasdj,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,sheep,mammals,fruit,M,619,false,Zoologists say that all sheep are mammals,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,32,0,test,NULL,Controller-DashedSentence,DashedSentence,2,say,1586956351137,skdflkasdj,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,sheep,mammals,fruit,M,664,false,Zoologists say that all sheep are mammals,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,32,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956351137,skdflkasdj,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,sheep,mammals,fruit,M,529,false,Zoologists say that all sheep are mammals,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,32,0,test,NULL,Controller-DashedSentence,DashedSentence,4,all,1586956351137,skdflkasdj,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,sheep,mammals,fruit,M,540,false,Zoologists say that all sheep are mammals,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,32,0,test,NULL,Controller-DashedSentence,DashedSentence,5,sheep,1586956351137,skdflkasdj,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,sheep,mammals,fruit,M,799,false,Zoologists say that all sheep are mammals,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,32,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956351137,skdflkasdj,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,sheep,mammals,fruit,M,822,false,Zoologists say that all sheep are mammals,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,32,0,test,NULL,Controller-DashedSentence,DashedSentence,7,mammals,1586956351137,skdflkasdj,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,sheep,mammals,fruit,M,2272,false,Zoologists say that all sheep are mammals,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,32,0,test,NULL,Selector,unnamed-Selector,Selection,Agree,1586956351518,skdflkasdj,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,sheep,mammals,fruit,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,32,0,test,NULL,PennController,33,_Trial_,End,1586956351519,skdflkasdj,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,sheep,mammals,fruit,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,14,0,test,NULL,PennController,15,_Trial_,Start,1586956351523,skdflkasdj,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,apples,fruit,insects,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,14,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956355985,skdflkasdj,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,apples,fruit,insects,M,516,false,Zoologists say that some apples are fruit,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,14,0,test,NULL,Controller-DashedSentence,DashedSentence,2,say,1586956355985,skdflkasdj,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,apples,fruit,insects,M,518,false,Zoologists say that some apples are fruit,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,14,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956355985,skdflkasdj,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,apples,fruit,insects,M,451,false,Zoologists say that some apples are fruit,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,14,0,test,NULL,Controller-DashedSentence,DashedSentence,4,some,1586956355985,skdflkasdj,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,apples,fruit,insects,M,518,false,Zoologists say that some apples are fruit,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,14,0,test,NULL,Controller-DashedSentence,DashedSentence,5,apples,1586956355985,skdflkasdj,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,apples,fruit,insects,M,472,false,Zoologists say that some apples are fruit,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,14,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956355985,skdflkasdj,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,apples,fruit,insects,M,473,false,Zoologists say that some apples are fruit,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,14,0,test,NULL,Controller-DashedSentence,DashedSentence,7,fruit,1586956355985,skdflkasdj,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,apples,fruit,insects,M,900,false,Zoologists say that some apples are fruit,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,14,0,test,NULL,Selector,unnamed-Selector,Selection,Agree,1586956356423,skdflkasdj,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,apples,fruit,insects,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,14,0,test,NULL,PennController,15,_Trial_,End,1586956356425,skdflkasdj,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,apples,fruit,insects,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,27,0,test,NULL,PennController,28,_Trial_,Start,1586956356427,skdflkasdj,10,all,,Matching,Token,Category,T4,none,0,iguanas,reptiles,mamals,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,27,0,test,NULL,Controller-DashedSentence,DashedSentence,1,,1586956360518,skdflkasdj,10,all,,Matching,Token,Category,T4,none,0,iguanas,reptiles,mamals,M,495,false, all iguanas are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,27,0,test,NULL,Controller-DashedSentence,DashedSentence,2,all,1586956360518,skdflkasdj,10,all,,Matching,Token,Category,T4,none,0,iguanas,reptiles,mamals,M,596,false, all iguanas are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,27,0,test,NULL,Controller-DashedSentence,DashedSentence,3,iguanas,1586956360518,skdflkasdj,10,all,,Matching,Token,Category,T4,none,0,iguanas,reptiles,mamals,M,573,false, all iguanas are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,27,0,test,NULL,Controller-DashedSentence,DashedSentence,4,are,1586956360518,skdflkasdj,10,all,,Matching,Token,Category,T4,none,0,iguanas,reptiles,mamals,M,474,false, all iguanas are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,27,0,test,NULL,Controller-DashedSentence,DashedSentence,5,reptiles,1586956360518,skdflkasdj,10,all,,Matching,Token,Category,T4,none,0,iguanas,reptiles,mamals,M,1574,false, all iguanas are reptiles,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,27,0,test,NULL,Selector,unnamed-Selector,Selection,Agree,1586956362015,skdflkasdj,10,all,,Matching,Token,Category,T4,none,0,iguanas,reptiles,mamals,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,27,0,test,NULL,PennController,28,_Trial_,End,1586956362016,skdflkasdj,10,all,,Matching,Token,Category,T4,none,0,iguanas,reptiles,mamals,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,21,0,test,NULL,PennController,22,_Trial_,Start,1586956362018,skdflkasdj,7,some,,Matching,Category,Token,T2,none,0,alligators,reptiles,mamals,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,21,0,test,NULL,Controller-DashedSentence,DashedSentence,1,,1586956365413,skdflkasdj,7,some,,Matching,Category,Token,T2,none,0,alligators,reptiles,mamals,M,495,false, some reptiles are alligators,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,21,0,test,NULL,Controller-DashedSentence,DashedSentence,2,some,1586956365413,skdflkasdj,7,some,,Matching,Category,Token,T2,none,0,alligators,reptiles,mamals,M,652,false, some reptiles are alligators,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,21,0,test,NULL,Controller-DashedSentence,DashedSentence,3,reptiles,1586956365413,skdflkasdj,7,some,,Matching,Category,Token,T2,none,0,alligators,reptiles,mamals,M,427,false, some reptiles are alligators,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,21,0,test,NULL,Controller-DashedSentence,DashedSentence,4,are,1586956365413,skdflkasdj,7,some,,Matching,Category,Token,T2,none,0,alligators,reptiles,mamals,M,507,false, some reptiles are alligators,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,21,0,test,NULL,Controller-DashedSentence,DashedSentence,5,alligators,1586956365413,skdflkasdj,7,some,,Matching,Category,Token,T2,none,0,alligators,reptiles,mamals,M,901,false, some reptiles are alligators,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,21,0,test,NULL,Selector,unnamed-Selector,Selection,Agree,1586956366256,skdflkasdj,7,some,,Matching,Category,Token,T2,none,0,alligators,reptiles,mamals,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,21,0,test,NULL,PennController,22,_Trial_,End,1586956366258,skdflkasdj,7,some,,Matching,Category,Token,T2,none,0,alligators,reptiles,mamals,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,31,0,test,NULL,PennController,32,_Trial_,Start,1586956366260,skdflkasdj,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,geckos,reptiles,mamals,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,31,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956370599,skdflkasdj,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,geckos,reptiles,mamals,M,450,false,Zoologists say that all geckos are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,31,0,test,NULL,Controller-DashedSentence,DashedSentence,2,say,1586956370599,skdflkasdj,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,geckos,reptiles,mamals,M,585,false,Zoologists say that all geckos are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,31,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956370599,skdflkasdj,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,geckos,reptiles,mamals,M,450,false,Zoologists say that all geckos are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,31,0,test,NULL,Controller-DashedSentence,DashedSentence,4,all,1586956370599,skdflkasdj,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,geckos,reptiles,mamals,M,573,false,Zoologists say that all geckos are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,31,0,test,NULL,Controller-DashedSentence,DashedSentence,5,geckos,1586956370599,skdflkasdj,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,geckos,reptiles,mamals,M,586,false,Zoologists say that all geckos are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,31,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956370599,skdflkasdj,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,geckos,reptiles,mamals,M,393,false,Zoologists say that all geckos are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,31,0,test,NULL,Controller-DashedSentence,DashedSentence,7,reptiles,1586956370599,skdflkasdj,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,geckos,reptiles,mamals,M,766,false,Zoologists say that all geckos are reptiles,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,31,0,test,NULL,Selector,unnamed-Selector,Selection,Agree,1586956371217,skdflkasdj,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,geckos,reptiles,mamals,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,31,0,test,NULL,PennController,32,_Trial_,End,1586956371219,skdflkasdj,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,geckos,reptiles,mamals,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,20,0,test,NULL,PennController,21,_Trial_,Start,1586956371221,skdflkasdj,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,plums,fruit,insects,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,20,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956375481,skdflkasdj,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,plums,fruit,insects,M,459,false,Zoologists say that some plums are insects,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,20,0,test,NULL,Controller-DashedSentence,DashedSentence,2,say,1586956375481,skdflkasdj,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,plums,fruit,insects,M,441,false,Zoologists say that some plums are insects,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,20,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956375481,skdflkasdj,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,plums,fruit,insects,M,450,false,Zoologists say that some plums are insects,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,20,0,test,NULL,Controller-DashedSentence,DashedSentence,4,some,1586956375481,skdflkasdj,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,plums,fruit,insects,M,472,false,Zoologists say that some plums are insects,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,20,0,test,NULL,Controller-DashedSentence,DashedSentence,5,plums,1586956375481,skdflkasdj,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,plums,fruit,insects,M,507,false,Zoologists say that some plums are insects,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,20,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956375481,skdflkasdj,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,plums,fruit,insects,M,820,false,Zoologists say that some plums are insects,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,20,0,test,NULL,Controller-DashedSentence,DashedSentence,7,insects,1586956375481,skdflkasdj,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,plums,fruit,insects,M,721,false,Zoologists say that some plums are insects,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,20,0,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1586956375808,skdflkasdj,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,plums,fruit,insects,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,20,0,test,NULL,PennController,21,_Trial_,End,1586956375809,skdflkasdj,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,plums,fruit,insects,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,9,0,test,NULL,PennController,10,_Trial_,Start,1586956375811,skdflkasdj,1,some,,Matching,Token,Category,T1,none,0,eagles,birds,reptiles,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,9,0,test,NULL,Controller-DashedSentence,DashedSentence,1,,1586956380452,skdflkasdj,1,some,,Matching,Token,Category,T1,none,0,eagles,birds,reptiles,M,461,false, some eagles are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,9,0,test,NULL,Controller-DashedSentence,DashedSentence,2,some,1586956380452,skdflkasdj,1,some,,Matching,Token,Category,T1,none,0,eagles,birds,reptiles,M,541,false, some eagles are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,9,0,test,NULL,Controller-DashedSentence,DashedSentence,3,eagles,1586956380452,skdflkasdj,1,some,,Matching,Token,Category,T1,none,0,eagles,birds,reptiles,M,516,false, some eagles are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,9,0,test,NULL,Controller-DashedSentence,DashedSentence,4,are,1586956380452,skdflkasdj,1,some,,Matching,Token,Category,T1,none,0,eagles,birds,reptiles,M,731,false, some eagles are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,9,0,test,NULL,Controller-DashedSentence,DashedSentence,5,birds,1586956380452,skdflkasdj,1,some,,Matching,Token,Category,T1,none,0,eagles,birds,reptiles,M,1923,false, some eagles are birds,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,9,0,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1586956382208,skdflkasdj,1,some,,Matching,Token,Category,T1,none,0,eagles,birds,reptiles,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,9,0,test,NULL,PennController,10,_Trial_,End,1586956382210,skdflkasdj,1,some,,Matching,Token,Category,T1,none,0,eagles,birds,reptiles,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,33,0,test,NULL,PennController,34,_Trial_,Start,1586956382212,skdflkasdj,13,all,,Mismatching,Token,Category,T6,none,0,anchovies,fishes,birds,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,33,0,test,NULL,Controller-DashedSentence,DashedSentence,1,,1586956387272,skdflkasdj,13,all,,Mismatching,Token,Category,T6,none,0,anchovies,fishes,birds,M,439,false, all anchovies are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,33,0,test,NULL,Controller-DashedSentence,DashedSentence,2,all,1586956387272,skdflkasdj,13,all,,Mismatching,Token,Category,T6,none,0,anchovies,fishes,birds,M,449,false, all anchovies are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,33,0,test,NULL,Controller-DashedSentence,DashedSentence,3,anchovies,1586956387272,skdflkasdj,13,all,,Mismatching,Token,Category,T6,none,0,anchovies,fishes,birds,M,620,false, all anchovies are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,33,0,test,NULL,Controller-DashedSentence,DashedSentence,4,are,1586956387272,skdflkasdj,13,all,,Mismatching,Token,Category,T6,none,0,anchovies,fishes,birds,M,1013,false, all anchovies are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,33,0,test,NULL,Controller-DashedSentence,DashedSentence,5,birds,1586956387272,skdflkasdj,13,all,,Mismatching,Token,Category,T6,none,0,anchovies,fishes,birds,M,2171,false, all anchovies are birds,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,33,0,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1586956387654,skdflkasdj,13,all,,Mismatching,Token,Category,T6,none,0,anchovies,fishes,birds,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,33,0,test,NULL,PennController,34,_Trial_,End,1586956387655,skdflkasdj,13,all,,Mismatching,Token,Category,T6,none,0,anchovies,fishes,birds,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,PennController,30,_Trial_,Start,1586956387657,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956395890,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,539,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,2,know,1586956395890,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,540,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956395890,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,417,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,4,all,1586956395890,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,461,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,5,lizards,1586956395890,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,495,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956395890,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,472,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,7,reptiles,1586956395890,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,4884,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956395890,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,539,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,2,know,1586956395890,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,540,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956395890,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,417,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,4,all,1586956395890,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,461,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,5,lizards,1586956395890,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,495,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956395890,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,472,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,7,reptiles,1586956395890,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,4884,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956400952,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,539,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,2,know,1586956400952,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,540,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956400952,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,417,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,4,all,1586956400952,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,461,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,5,lizards,1586956400952,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,495,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956400952,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,472,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,7,reptiles,1586956400952,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,4884,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956400952,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,539,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,2,know,1586956400952,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,540,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956400952,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,417,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,4,all,1586956400952,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,461,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,5,lizards,1586956400952,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,495,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956400952,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,472,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Controller-DashedSentence,DashedSentence,7,reptiles,1586956400952,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,4884,false,Zoologists know that all lizards are reptiles,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,Selector,unnamed-Selector,Selection,Agree,1586956401153,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,29,0,test,NULL,PennController,30,_Trial_,End,1586956401155,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,lizards,reptiles,mamals,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,10,0,test,NULL,PennController,11,_Trial_,Start,1586956401158,skdflkasdj,1,some,,Matching,Token,Category,T1,none,0,strawberries,fruit,insects,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,10,0,test,NULL,Controller-DashedSentence,DashedSentence,1,,1586956404495,skdflkasdj,1,some,,Matching,Token,Category,T1,none,0,strawberries,fruit,insects,M,495,false, some strawberries are fruit,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,10,0,test,NULL,Controller-DashedSentence,DashedSentence,2,some,1586956404495,skdflkasdj,1,some,,Matching,Token,Category,T1,none,0,strawberries,fruit,insects,M,450,false, some strawberries are fruit,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,10,0,test,NULL,Controller-DashedSentence,DashedSentence,3,strawberries,1586956404495,skdflkasdj,1,some,,Matching,Token,Category,T1,none,0,strawberries,fruit,insects,M,485,false, some strawberries are fruit,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,10,0,test,NULL,Controller-DashedSentence,DashedSentence,4,are,1586956404495,skdflkasdj,1,some,,Matching,Token,Category,T1,none,0,strawberries,fruit,insects,M,540,false, some strawberries are fruit,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,10,0,test,NULL,Controller-DashedSentence,DashedSentence,5,fruit,1586956404495,skdflkasdj,1,some,,Matching,Token,Category,T1,none,0,strawberries,fruit,insects,M,663,false, some strawberries are fruit,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,10,0,test,NULL,Selector,unnamed-Selector,Selection,Agree,1586956405057,skdflkasdj,1,some,,Matching,Token,Category,T1,none,0,strawberries,fruit,insects,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,10,0,test,NULL,PennController,11,_Trial_,End,1586956405059,skdflkasdj,1,some,,Matching,Token,Category,T1,none,0,strawberries,fruit,insects,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,30,0,test,NULL,PennController,31,_Trial_,Start,1586956405060,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,elephants,mammals,fruit,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,30,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956410188,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,elephants,mammals,fruit,M,473,false,Zoologists know that all elephants are mammals,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,30,0,test,NULL,Controller-DashedSentence,DashedSentence,2,know,1586956410188,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,elephants,mammals,fruit,M,428,false,Zoologists know that all elephants are mammals,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,30,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956410188,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,elephants,mammals,fruit,M,528,false,Zoologists know that all elephants are mammals,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,30,0,test,NULL,Controller-DashedSentence,DashedSentence,4,all,1586956410188,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,elephants,mammals,fruit,M,461,false,Zoologists know that all elephants are mammals,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,30,0,test,NULL,Controller-DashedSentence,DashedSentence,5,elephants,1586956410188,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,elephants,mammals,fruit,M,563,false,Zoologists know that all elephants are mammals,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,30,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956410188,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,elephants,mammals,fruit,M,574,false,Zoologists know that all elephants are mammals,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,30,0,test,NULL,Controller-DashedSentence,DashedSentence,7,mammals,1586956410188,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,elephants,mammals,fruit,M,1665,false,Zoologists know that all elephants are mammals,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,30,0,test,NULL,Selector,unnamed-Selector,Selection,Agree,1586956410705,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,elephants,mammals,fruit,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,30,0,test,NULL,PennController,31,_Trial_,End,1586956410706,skdflkasdj,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,elephants,mammals,fruit,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,24,0,test,NULL,PennController,25,_Trial_,Start,1586956410709,skdflkasdj,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,horses,mammals,fruit,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,24,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956414946,skdflkasdj,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,horses,mammals,fruit,M,461,false,Zoologists know that some mammals are horses,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,24,0,test,NULL,Controller-DashedSentence,DashedSentence,2,know,1586956414946,skdflkasdj,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,horses,mammals,fruit,M,496,false,Zoologists know that some mammals are horses,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,24,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956414946,skdflkasdj,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,horses,mammals,fruit,M,417,false,Zoologists know that some mammals are horses,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,24,0,test,NULL,Controller-DashedSentence,DashedSentence,4,some,1586956414946,skdflkasdj,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,horses,mammals,fruit,M,471,false,Zoologists know that some mammals are horses,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,24,0,test,NULL,Controller-DashedSentence,DashedSentence,5,mammals,1586956414946,skdflkasdj,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,horses,mammals,fruit,M,552,false,Zoologists know that some mammals are horses,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,24,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956414946,skdflkasdj,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,horses,mammals,fruit,M,607,false,Zoologists know that some mammals are horses,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,24,0,test,NULL,Controller-DashedSentence,DashedSentence,7,horses,1586956414946,skdflkasdj,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,horses,mammals,fruit,M,776,false,Zoologists know that some mammals are horses,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,24,0,test,NULL,Selector,unnamed-Selector,Selection,Agree,1586956415857,skdflkasdj,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,horses,mammals,fruit,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,24,0,test,NULL,PennController,25,_Trial_,End,1586956415859,skdflkasdj,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,horses,mammals,fruit,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,25,0,test,NULL,PennController,26,_Trial_,Start,1586956415862,skdflkasdj,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,chameleons,reptiles,mamals,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,25,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956420156,skdflkasdj,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,chameleons,reptiles,mamals,M,450,false,Zoologists say that some reptiles are chameleons,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,25,0,test,NULL,Controller-DashedSentence,DashedSentence,2,say,1586956420156,skdflkasdj,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,chameleons,reptiles,mamals,M,437,false,Zoologists say that some reptiles are chameleons,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,25,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956420156,skdflkasdj,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,chameleons,reptiles,mamals,M,520,false,Zoologists say that some reptiles are chameleons,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,25,0,test,NULL,Controller-DashedSentence,DashedSentence,4,some,1586956420156,skdflkasdj,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,chameleons,reptiles,mamals,M,449,false,Zoologists say that some reptiles are chameleons,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,25,0,test,NULL,Controller-DashedSentence,DashedSentence,5,reptiles,1586956420156,skdflkasdj,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,chameleons,reptiles,mamals,M,496,false,Zoologists say that some reptiles are chameleons,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,25,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956420156,skdflkasdj,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,chameleons,reptiles,mamals,M,416,false,Zoologists say that some reptiles are chameleons,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,25,0,test,NULL,Controller-DashedSentence,DashedSentence,7,chameleons,1586956420156,skdflkasdj,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,chameleons,reptiles,mamals,M,1069,false,Zoologists say that some reptiles are chameleons,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,25,0,test,NULL,Selector,unnamed-Selector,Selection,Agree,1586956420460,skdflkasdj,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,chameleons,reptiles,mamals,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,25,0,test,NULL,PennController,26,_Trial_,End,1586956420461,skdflkasdj,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,chameleons,reptiles,mamals,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,23,0,test,NULL,PennController,24,_Trial_,Start,1586956420462,skdflkasdj,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,crocodiles,reptiles,mamals,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,23,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956427142,skdflkasdj,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,crocodiles,reptiles,mamals,M,518,false,Zoologists know that some reptiles are crocodiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,23,0,test,NULL,Controller-DashedSentence,DashedSentence,2,know,1586956427142,skdflkasdj,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,crocodiles,reptiles,mamals,M,494,false,Zoologists know that some reptiles are crocodiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,23,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956427142,skdflkasdj,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,crocodiles,reptiles,mamals,M,517,false,Zoologists know that some reptiles are crocodiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,23,0,test,NULL,Controller-DashedSentence,DashedSentence,4,some,1586956427142,skdflkasdj,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,crocodiles,reptiles,mamals,M,462,false,Zoologists know that some reptiles are crocodiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,23,0,test,NULL,Controller-DashedSentence,DashedSentence,5,reptiles,1586956427142,skdflkasdj,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,crocodiles,reptiles,mamals,M,451,false,Zoologists know that some reptiles are crocodiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,23,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956427142,skdflkasdj,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,crocodiles,reptiles,mamals,M,460,false,Zoologists know that some reptiles are crocodiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,23,0,test,NULL,Controller-DashedSentence,DashedSentence,7,crocodiles,1586956427142,skdflkasdj,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,crocodiles,reptiles,mamals,M,3297,false,Zoologists know that some reptiles are crocodiles,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,23,0,test,NULL,Selector,unnamed-Selector,Selection,Agree,1586956428627,skdflkasdj,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,crocodiles,reptiles,mamals,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,23,0,test,NULL,PennController,24,_Trial_,End,1586956428628,skdflkasdj,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,crocodiles,reptiles,mamals,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,44,0,test,NULL,PennController,45,_Trial_,Start,1586956428630,skdflkasdj,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,mosquitos,insects,fishes,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,44,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956433037,skdflkasdj,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,mosquitos,insects,fishes,M,461,false,Zoologists say that all insects are mosquitos,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,44,0,test,NULL,Controller-DashedSentence,DashedSentence,2,say,1586956433037,skdflkasdj,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,mosquitos,insects,fishes,M,472,false,Zoologists say that all insects are mosquitos,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,44,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956433037,skdflkasdj,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,mosquitos,insects,fishes,M,495,false,Zoologists say that all insects are mosquitos,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,44,0,test,NULL,Controller-DashedSentence,DashedSentence,4,all,1586956433037,skdflkasdj,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,mosquitos,insects,fishes,M,507,false,Zoologists say that all insects are mosquitos,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,44,0,test,NULL,Controller-DashedSentence,DashedSentence,5,insects,1586956433037,skdflkasdj,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,mosquitos,insects,fishes,M,528,false,Zoologists say that all insects are mosquitos,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,44,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956433037,skdflkasdj,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,mosquitos,insects,fishes,M,609,false,Zoologists say that all insects are mosquitos,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,44,0,test,NULL,Controller-DashedSentence,DashedSentence,7,mosquitos,1586956433037,skdflkasdj,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,mosquitos,insects,fishes,M,877,false,Zoologists say that all insects are mosquitos,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,44,0,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1586956433431,skdflkasdj,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,mosquitos,insects,fishes,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,44,0,test,NULL,PennController,45,_Trial_,End,1586956433432,skdflkasdj,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,mosquitos,insects,fishes,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,34,0,test,NULL,PennController,35,_Trial_,Start,1586956433434,skdflkasdj,13,all,,Mismatching,Token,Category,T6,none,0,wasps,insects,fishes,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,34,0,test,NULL,Controller-DashedSentence,DashedSentence,1,,1586956436839,skdflkasdj,13,all,,Mismatching,Token,Category,T6,none,0,wasps,insects,fishes,M,551,false, all wasps are fishes,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,34,0,test,NULL,Controller-DashedSentence,DashedSentence,2,all,1586956436839,skdflkasdj,13,all,,Mismatching,Token,Category,T6,none,0,wasps,insects,fishes,M,563,false, all wasps are fishes,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,34,0,test,NULL,Controller-DashedSentence,DashedSentence,3,wasps,1586956436839,skdflkasdj,13,all,,Mismatching,Token,Category,T6,none,0,wasps,insects,fishes,M,494,false, all wasps are fishes,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,34,0,test,NULL,Controller-DashedSentence,DashedSentence,4,are,1586956436839,skdflkasdj,13,all,,Mismatching,Token,Category,T6,none,0,wasps,insects,fishes,M,495,false, all wasps are fishes,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,34,0,test,NULL,Controller-DashedSentence,DashedSentence,5,fishes,1586956436839,skdflkasdj,13,all,,Mismatching,Token,Category,T6,none,0,wasps,insects,fishes,M,844,false, all wasps are fishes,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,34,0,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1586956437232,skdflkasdj,13,all,,Mismatching,Token,Category,T6,none,0,wasps,insects,fishes,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,34,0,test,NULL,PennController,35,_Trial_,End,1586956437233,skdflkasdj,13,all,,Mismatching,Token,Category,T6,none,0,wasps,insects,fishes,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,17,0,test,NULL,PennController,18,_Trial_,Start,1586956437235,skdflkasdj,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,sparrows,birds,reptiles,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,17,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956442858,skdflkasdj,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,sparrows,birds,reptiles,M,551,false,Zoologists know that some sparrows are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,17,0,test,NULL,Controller-DashedSentence,DashedSentence,2,know,1586956442858,skdflkasdj,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,sparrows,birds,reptiles,M,552,false,Zoologists know that some sparrows are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,17,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956442858,skdflkasdj,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,sparrows,birds,reptiles,M,529,false,Zoologists know that some sparrows are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,17,0,test,NULL,Controller-DashedSentence,DashedSentence,4,some,1586956442858,skdflkasdj,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,sparrows,birds,reptiles,M,664,false,Zoologists know that some sparrows are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,17,0,test,NULL,Controller-DashedSentence,DashedSentence,5,sparrows,1586956442858,skdflkasdj,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,sparrows,birds,reptiles,M,776,false,Zoologists know that some sparrows are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,17,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956442858,skdflkasdj,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,sparrows,birds,reptiles,M,1282,false,Zoologists know that some sparrows are reptiles,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,17,0,test,NULL,Controller-DashedSentence,DashedSentence,7,reptiles,1586956442858,skdflkasdj,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,sparrows,birds,reptiles,M,810,false,Zoologists know that some sparrows are reptiles,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,17,0,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1586956443206,skdflkasdj,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,sparrows,birds,reptiles,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,17,0,test,NULL,PennController,18,_Trial_,End,1586956443208,skdflkasdj,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,sparrows,birds,reptiles,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,22,0,test,NULL,PennController,23,_Trial_,Start,1586956443209,skdflkasdj,7,some,,Matching,Category,Token,T2,none,0,cats,mammals,fruit,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,22,0,test,NULL,Controller-DashedSentence,DashedSentence,1,,1586956447404,skdflkasdj,7,some,,Matching,Category,Token,T2,none,0,cats,mammals,fruit,M,495,false, some mammals are cats,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,22,0,test,NULL,Controller-DashedSentence,DashedSentence,2,some,1586956447404,skdflkasdj,7,some,,Matching,Category,Token,T2,none,0,cats,mammals,fruit,M,484,false, some mammals are cats,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,22,0,test,NULL,Controller-DashedSentence,DashedSentence,3,mammals,1586956447404,skdflkasdj,7,some,,Matching,Category,Token,T2,none,0,cats,mammals,fruit,M,505,false, some mammals are cats,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,22,0,test,NULL,Controller-DashedSentence,DashedSentence,4,are,1586956447404,skdflkasdj,7,some,,Matching,Category,Token,T2,none,0,cats,mammals,fruit,M,643,false, some mammals are cats,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,22,0,test,NULL,Controller-DashedSentence,DashedSentence,5,cats,1586956447404,skdflkasdj,7,some,,Matching,Category,Token,T2,none,0,cats,mammals,fruit,M,1620,false, some mammals are cats,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,22,0,test,NULL,Selector,unnamed-Selector,Selection,Agree,1586956447842,skdflkasdj,7,some,,Matching,Category,Token,T2,none,0,cats,mammals,fruit,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,22,0,test,NULL,PennController,23,_Trial_,End,1586956447843,skdflkasdj,7,some,,Matching,Category,Token,T2,none,0,cats,mammals,fruit,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,13,0,test,NULL,PennController,14,_Trial_,Start,1586956447845,skdflkasdj,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,crows,birds,reptiles,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,13,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956453243,skdflkasdj,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,crows,birds,reptiles,M,540,false,Zoologists say that some crows are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,13,0,test,NULL,Controller-DashedSentence,DashedSentence,2,say,1586956453243,skdflkasdj,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,crows,birds,reptiles,M,585,false,Zoologists say that some crows are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,13,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956453243,skdflkasdj,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,crows,birds,reptiles,M,417,false,Zoologists say that some crows are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,13,0,test,NULL,Controller-DashedSentence,DashedSentence,4,some,1586956453243,skdflkasdj,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,crows,birds,reptiles,M,528,false,Zoologists say that some crows are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,13,0,test,NULL,Controller-DashedSentence,DashedSentence,5,crows,1586956453243,skdflkasdj,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,crows,birds,reptiles,M,416,false,Zoologists say that some crows are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,13,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956453243,skdflkasdj,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,crows,birds,reptiles,M,462,false,Zoologists say that some crows are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,13,0,test,NULL,Controller-DashedSentence,DashedSentence,7,birds,1586956453243,skdflkasdj,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,crows,birds,reptiles,M,1992,false,Zoologists say that some crows are birds,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,13,0,test,NULL,Selector,unnamed-Selector,Selection,Agree,1586956453636,skdflkasdj,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,crows,birds,reptiles,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,13,0,test,NULL,PennController,14,_Trial_,End,1586956453637,skdflkasdj,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,crows,birds,reptiles,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,11,0,test,NULL,PennController,12,_Trial_,Start,1586956453639,skdflkasdj,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,canaries,birds,reptiles,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,11,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956458641,skdflkasdj,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,canaries,birds,reptiles,M,506,false,Zoologists know that some canaries are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,11,0,test,NULL,Controller-DashedSentence,DashedSentence,2,know,1586956458641,skdflkasdj,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,canaries,birds,reptiles,M,529,false,Zoologists know that some canaries are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,11,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956458641,skdflkasdj,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,canaries,birds,reptiles,M,496,false,Zoologists know that some canaries are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,11,0,test,NULL,Controller-DashedSentence,DashedSentence,4,some,1586956458641,skdflkasdj,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,canaries,birds,reptiles,M,416,false,Zoologists know that some canaries are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,11,0,test,NULL,Controller-DashedSentence,DashedSentence,5,canaries,1586956458641,skdflkasdj,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,canaries,birds,reptiles,M,483,false,Zoologists know that some canaries are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,11,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956458641,skdflkasdj,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,canaries,birds,reptiles,M,450,false,Zoologists know that some canaries are birds,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,11,0,test,NULL,Controller-DashedSentence,DashedSentence,7,birds,1586956458641,skdflkasdj,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,canaries,birds,reptiles,M,1619,false,Zoologists know that some canaries are birds,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,11,0,test,NULL,Selector,unnamed-Selector,Selection,Agree,1586956459036,skdflkasdj,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,canaries,birds,reptiles,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,11,0,test,NULL,PennController,12,_Trial_,End,1586956459037,skdflkasdj,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,canaries,birds,reptiles,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,39,0,test,NULL,PennController,40,_Trial_,Start,1586956459038,skdflkasdj,16,all,,Matching,Category,Token,T5,none,0,piranhas,fishes,birds,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,39,0,test,NULL,Controller-DashedSentence,DashedSentence,1,,1586956463131,skdflkasdj,16,all,,Matching,Category,Token,T5,none,0,piranhas,fishes,birds,M,449,false, all fishes are piranhas,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,39,0,test,NULL,Controller-DashedSentence,DashedSentence,2,all,1586956463131,skdflkasdj,16,all,,Matching,Category,Token,T5,none,0,piranhas,fishes,birds,M,507,false, all fishes are piranhas,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,39,0,test,NULL,Controller-DashedSentence,DashedSentence,3,fishes,1586956463131,skdflkasdj,16,all,,Matching,Category,Token,T5,none,0,piranhas,fishes,birds,M,528,false, all fishes are piranhas,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,39,0,test,NULL,Controller-DashedSentence,DashedSentence,4,are,1586956463131,skdflkasdj,16,all,,Matching,Category,Token,T5,none,0,piranhas,fishes,birds,M,720,false, all fishes are piranhas,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,39,0,test,NULL,Controller-DashedSentence,DashedSentence,5,piranhas,1586956463131,skdflkasdj,16,all,,Matching,Category,Token,T5,none,0,piranhas,fishes,birds,M,1238,false, all fishes are piranhas,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,39,0,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1586956463535,skdflkasdj,16,all,,Matching,Category,Token,T5,none,0,piranhas,fishes,birds,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,39,0,test,NULL,PennController,40,_Trial_,End,1586956463537,skdflkasdj,16,all,,Matching,Category,Token,T5,none,0,piranhas,fishes,birds,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,18,0,test,NULL,PennController,19,_Trial_,Start,1586956463539,skdflkasdj,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,pears,fruit,insects,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,18,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956468441,skdflkasdj,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,pears,fruit,insects,M,439,false,Zoologists know that some pears are insects,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,18,0,test,NULL,Controller-DashedSentence,DashedSentence,2,know,1586956468441,skdflkasdj,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,pears,fruit,insects,M,427,false,Zoologists know that some pears are insects,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,18,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956468441,skdflkasdj,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,pears,fruit,insects,M,404,false,Zoologists know that some pears are insects,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,18,0,test,NULL,Controller-DashedSentence,DashedSentence,4,some,1586956468441,skdflkasdj,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,pears,fruit,insects,M,509,false,Zoologists know that some pears are insects,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,18,0,test,NULL,Controller-DashedSentence,DashedSentence,5,pears,1586956468441,skdflkasdj,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,pears,fruit,insects,M,471,false,Zoologists know that some pears are insects,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,18,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956468441,skdflkasdj,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,pears,fruit,insects,M,799,false,Zoologists know that some pears are insects,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,18,0,test,NULL,Controller-DashedSentence,DashedSentence,7,insects,1586956468441,skdflkasdj,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,pears,fruit,insects,M,1440,false,Zoologists know that some pears are insects,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,18,0,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1586956468801,skdflkasdj,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,pears,fruit,insects,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,18,0,test,NULL,PennController,19,_Trial_,End,1586956468802,skdflkasdj,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,pears,fruit,insects,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,41,0,test,NULL,PennController,42,_Trial_,Start,1586956468804,skdflkasdj,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,mackerels,fishes,birds,M,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Reading time.
+# 28. Newline?
+# 29. Sentence (or sentence MD5).
+# 30. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,41,0,test,NULL,Controller-DashedSentence,DashedSentence,1,Zoologists,1586956475011,skdflkasdj,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,mackerels,fishes,birds,M,551,false,Zoologists know that all fishes are mackerels,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,41,0,test,NULL,Controller-DashedSentence,DashedSentence,2,know,1586956475011,skdflkasdj,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,mackerels,fishes,birds,M,484,false,Zoologists know that all fishes are mackerels,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,41,0,test,NULL,Controller-DashedSentence,DashedSentence,3,that,1586956475011,skdflkasdj,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,mackerels,fishes,birds,M,428,false,Zoologists know that all fishes are mackerels,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,41,0,test,NULL,Controller-DashedSentence,DashedSentence,4,all,1586956475011,skdflkasdj,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,mackerels,fishes,birds,M,449,false,Zoologists know that all fishes are mackerels,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,41,0,test,NULL,Controller-DashedSentence,DashedSentence,5,fishes,1586956475011,skdflkasdj,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,mackerels,fishes,birds,M,473,false,Zoologists know that all fishes are mackerels,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,41,0,test,NULL,Controller-DashedSentence,DashedSentence,6,are,1586956475011,skdflkasdj,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,mackerels,fishes,birds,M,493,false,Zoologists know that all fishes are mackerels,Any addtional parameters were appended as additional columns
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,41,0,test,NULL,Controller-DashedSentence,DashedSentence,7,mackerels,1586956475011,skdflkasdj,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,mackerels,fishes,birds,M,2882,false,Zoologists know that all fishes are mackerels,Any addtional parameters were appended as additional columns
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. SentNumber.
+# 15. Quantifier.
+# 16. Matrix.
+# 17. WhichCategory.
+# 18. Subject.
+# 19. Predicate.
+# 20. SentType.
+# 21. Verb.
+# 22. Embedded.
+# 23. Token.
+# 24. MatchingCategory.
+# 25. MismatchingCategory.
+# 26. Group.
+# 27. Comments.
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,41,0,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1586956475382,skdflkasdj,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,mackerels,fishes,birds,M,NULL
+1586956491,3e8f6eb3c615fdc94c6e3456c139539e,PennController,41,0,test,NULL,PennController,42,_Trial_,End,1586956475382,skdflkasdj,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,mackerels,fishes,birds,M,NULL
