@@ -22,8 +22,8 @@ newTrial("intro",
     ,
     newText("<p>This experiment has three parts. At the end of each part, we will provide a link to the next part.</p>")
     ,
-    newText("<p>You will only receive extra credit points for completing <strong>all three parts.</strong></p>")
-    ,
+//     newText("<p>You will only receive extra credit points for completing <strong>all three parts.</strong></p>")
+//     ,
     newText("<p>This experiment requires the use of a keyboard to register responses.</p>") 
     ,
     newText("<p>So you <strong>MUST</strong> be on a laptop, desktop computer, or tablet device with a detachable keyboard.</p>")
