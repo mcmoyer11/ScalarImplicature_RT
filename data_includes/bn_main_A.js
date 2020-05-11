@@ -84,7 +84,13 @@ newTrial("demo",
         .bold()
     ,
     newTextInput("OtherLangs")
-        .before( newText("before", "Do you speak any other languages?") )
+        .before( newText("before", "Do you speak any other languages? If so, which?") )
+        .center()
+        .print()
+    ,
+    newTextInput("Device")
+        .log()
+        .before( newText("before", "<p>Please tell us what kind of device you are using.</p>") )
         .center()
         .print()
     ,
@@ -104,9 +110,14 @@ newTrial("demo",
     newVar("OtherLangs")
         .global()
         .set( getTextInput("OtherLangs") )
+    ,
+    newVar("Device")
+        .global()
+        .set( getTextInput("Device") )
 )
 .log( "NativeLang" , getVar("NativeLang") )
 .log( "OtherLangs" , getVar("OtherLangs") )
+.log( "Device" , getVar("Device") )
 .setOption("hideProgressBar", true); // Do not show the progress bar on first screen
 
 
